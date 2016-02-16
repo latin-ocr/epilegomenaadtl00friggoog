@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epilegomenaadtl00friggoog_0093.png"; bbox 0 0 1044 1560; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 530 318 643 339">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 530 318 643 339">
+     <span class='ocr_line' id='line_1_1' title="bbox 530 318 643 339; baseline 0.018 -4"><span class='ocrx_word' id='word_1_1' title='bbox 530 318 643 339; x_wconf 70' lang='lat' dir='ltr'>DEC29.883</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 462 344 729 399">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 462 344 729 399">
+     <span class='ocr_line' id='line_1_2' title="bbox 462 344 729 399; baseline 0 -9"><span class='ocrx_word' id='word_1_2' title='bbox 462 344 511 384; x_wconf 43' lang='lat'>&#39;755</span> <span class='ocrx_word' id='word_1_3' title='bbox 516 351 666 399; x_wconf 39' lang='grc' dir='ltr'>ιᾶιΐΐβμ</span> <span class='ocrx_word' id='word_1_4' title='bbox 672 360 729 390; x_wconf 55' lang='lat' dir='ltr'>uod·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 968 603 972 1436">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 968 603 972 1436">
+     <span class='ocr_line' id='line_1_3' title="bbox 968 603 972 1436; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 968 603 972 1436; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
